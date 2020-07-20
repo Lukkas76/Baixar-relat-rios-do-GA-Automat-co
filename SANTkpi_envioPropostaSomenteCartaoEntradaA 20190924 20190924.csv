@@ -1,0 +1,1043 @@
+Date,Source/Medium,Device Category,Landing Page,Segment,Sessions
+20190924,(direct) / (none),desktop,/home,[Geral - CC e NC - NP] Aprovado,4
+20190924,(direct) / (none),desktop,/home,[Geral - NC - NP] Negado,38
+20190924,(direct) / (none),desktop,/pf/funil/cartoes/(not set)/token,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),desktop,/pf/funil/cartoes/cc-123/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),desktop,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),desktop,/pf/funil/cartoes/cc-aa-platinum/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,2
+20190924,(direct) / (none),desktop,/pf/funil/cartoes/cc-dufry/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),desktop,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,1
+20190924,(direct) / (none),desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,12
+20190924,(direct) / (none),desktop,/pf/funil/cartoes/cc-smiles-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),desktop,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),desktop,/pf/produto/cartoes/basico/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),desktop,/pf/produto/cartoes/dufry/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,3
+20190924,(direct) / (none),desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,3
+20190924,(direct) / (none),mobile,/home,[Geral - NC - NP] Negado,94
+20190924,(direct) / (none),mobile,/home,[Geral - CC e NC - NP] Aprovado,6
+20190924,(direct) / (none),mobile,/home,[Geral - CC - NP] Negado,1
+20190924,(direct) / (none),mobile,/pf/erro/cartoes,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),mobile,/pf/familia/atendimento/vitrine/atendimento-para-voce,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),mobile,/pf/funil/cartoes/(not set)/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),mobile,/pf/funil/cartoes/(not set)/token,[Geral - NC - NP] Negado,2
+20190924,(direct) / (none),mobile,/pf/funil/cartoes/cc-aa-black/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),mobile,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,3
+20190924,(direct) / (none),mobile,/pf/funil/cartoes/cc-free/situacao-do-cadastro,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,1
+20190924,(direct) / (none),mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,8
+20190924,(direct) / (none),mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,119
+20190924,(direct) / (none),mobile,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,2
+20190924,(direct) / (none),mobile,/pf/funil/cartoes/cc-play/situacao-do-cadastro,[Geral - CC e NC - NP] Aprovado,1
+20190924,(direct) / (none),mobile,/pf/funil/cartoes/cc-play/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),mobile,/pf/funil/contas/abertura-de-conta/token,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),mobile,/pf/produto/aplicativos/app-santander,[Geral - CC e NC - NP] Aprovado,1
+20190924,(direct) / (none),mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,22
+20190924,(direct) / (none),mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,82
+20190924,(direct) / (none),mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC - NP] Negado,7
+20190924,(direct) / (none),mobile,/pf/produto/cartoes/play/pagina-de-produto,[Geral - NC - NP] Negado,4
+20190924,(direct) / (none),mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,49
+20190924,(direct) / (none),mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,7
+20190924,(direct) / (none),mobile,/pf/produto/consorcio/planos-de-consorcio,[Geral - CC e NC - NP] Aprovado,1
+20190924,(direct) / (none),mobile,/pf/produto/consorcio/planos-de-consorcio,[Geral - NC - NP] Negado,2
+20190924,(direct) / (none),mobile,/pf/produto/universidades/vitrine,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),mobile,/produto/atendimento/acesso-nao-correntista,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),mobile,/produto/credito/credito-imobiliario,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),tablet,/home,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),tablet,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,(direct) / (none),tablet,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,aa_website / banner_passengerpage,desktop,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,4
+20190924,ads.performasales.com / referral,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,ads.reviveadtag.com / referral,mobile,/pf/funil/cartoes/(not set)/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,1
+20190924,adsensecustomsearchads.com / referral,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,2
+20190924,adsensecustomsearchads.com / referral,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,9
+20190924,agenciarh.online / referral,mobile,/home,[Geral - NC - NP] Negado,1
+20190924,aluno-ead.unicesumar.edu.br / referral,desktop,/pf/produto/atendimento/emissao-boleto-vencido,[Geral - NC - NP] Negado,1
+20190924,ampproject.org / referral,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - CC e NC - NP] Aprovado,1
+20190924,ampproject.org / referral,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,4
+20190924,angariacao / pagina,mobile,/pf/funil/cartoes/cc-play/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,1
+20190924,app_universitario / link,mobile,/pf/funil/cartoes/cc-play/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,1
+20190924,app_universitario / link,mobile,/pf/produto/cartoes/play/pagina-de-produto,[Geral - NC - NP] Negado,3
+20190924,ask / organic,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,b.xfreeservice.com / referral,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,b.xfreeservice.com / referral,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,beeleads%2525257cbeeleads / display%2525257ccpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,beeleads%7cbeeleads / display%7ccpa,mobile,/home,[Geral - NC - NP] Negado,1
+20190924,beeleads|beeleads / display|cpa,desktop,/home,[Geral - NC - NP] Negado,1
+20190924,beeleads|beeleads / display|cpa,mobile,/home,[Geral - NC - NP] Negado,1
+20190924,beeleads|beeleads / display|cpa,mobile,/home,[Geral - CC e NC - NP] Aprovado,1
+20190924,beeleads|beeleads / display|cpa,mobile,/pf/chat/seguro-,[Geral - CC e NC - NP] Aprovado,1
+20190924,beeleads|beeleads / display|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,5
+20190924,beeleads|beeleads / display|cpa,mobile,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - CC e NC - NP] Aprovado,3
+20190924,beeleads|beeleads / display|cpa,mobile,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - NC - NP] Negado,3
+20190924,beeleads|beeleads / display|cpa,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,beeleads|beeleads / email|cpa,desktop,/home,[Geral - CC e NC - NP] Aprovado,1
+20190924,beeleads|beeleads / email|cpa,desktop,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,beeleads|beeleads / email|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,4
+20190924,beeleads|beeleads / email|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,15
+20190924,beeleads|beeleads / email|cpa,desktop,/pf/funil/cartoes/cc-free/token,[Geral - CC e NC - NP] Aprovado,1
+20190924,beeleads|beeleads / email|cpa,desktop,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,1
+20190924,beeleads|beeleads / email|cpa,mobile,/home,[Geral - NC - NP] Negado,3
+20190924,beeleads|beeleads / email|cpa,mobile,/pf/funil/cartoes/(not set)/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,beeleads|beeleads / email|cpa,mobile,/pf/funil/cartoes/(not set)/token,[Geral - NC - NP] Negado,1
+20190924,beeleads|beeleads / email|cpa,mobile,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - CC e NC - NP] Aprovado,1
+20190924,beeleads|beeleads / email|cpa,mobile,/pf/funil/cartoes/cc-free/continuar-pedido,[Geral - NC - NP] Negado,2
+20190924,beeleads|beeleads / email|cpa,mobile,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,1
+20190924,beeleads|beeleads / email|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,164
+20190924,beeleads|beeleads / email|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,20
+20190924,beeleads|beeleads / email|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,1
+20190924,beeleads|beeleads / email|cpa,mobile,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,1
+20190924,beeleads|beeleads / email|cpa,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,beeleads|beeleads / email|cpa,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,beeleads|ros / display|cpl,mobile,/home,[Geral - NC - NP] Negado,2
+20190924,beeleads|ros / display|cpl,mobile,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,beeleads|ros / display|cpl,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,beeleads|ros / push|cpa,desktop,/home,[Geral - NC - NP] Negado,1
+20190924,beeleads|ros / push|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,beeleads|ros / push|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,bidu.com.br / referral,tablet,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,bing / cpc,desktop,/pf/funil/cartoes/cc-free/continuar-pedido,[Geral - NC - NP] Negado,1
+20190924,bing / cpc,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,1
+20190924,bing / cpc,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,8
+20190924,bing / cpc,desktop,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - NC - NP] Negado,1
+20190924,bing / cpc,desktop,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,1
+20190924,bing / cpc,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,2
+20190924,bing / cpc,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,bing / organic,desktop,/home,[Geral - CC e NC - NP] Aprovado,1
+20190924,bing / organic,desktop,/home,[Geral - NC - NP] Negado,1
+20190924,bing / organic,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,bing / organic,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,2
+20190924,bing / organic,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,2
+20190924,bing / organic,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,bing / organic,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,blog.mobills.com.br / referral,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,blue|blue / display|cpa,mobile,/home,[Geral - CC - NP] Negado,1
+20190924,bmail1.uol.com.br / referral,desktop,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,1
+20190924,br.downloadsearch.cnet.com / referral,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,br.search.yahoo.com / referral,desktop,/home,[Geral - NC - NP] Negado,6
+20190924,br.search.yahoo.com / referral,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,br.search.yahoo.com / referral,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,2
+20190924,cadernodetutoriais.com.br / referral,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,5
+20190924,cartaoacredito.com / referral,desktop,/pf/produto/cartoes/play/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,cartaoacredito.com / referral,mobile,/pf/produto/cartoes/play/pagina-de-produto,[Geral - NC - NP] Negado,3
+20190924,cartaoja / cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,comparaonline|compara-online / comparador|cpa,desktop,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,1
+20190924,comparaonline|compara-online / comparador|cpa,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,8
+20190924,comparaonline|compara-online / display|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,3
+20190924,comparaonline|compara-online / display|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,1
+20190924,comparaonline|compara-online / display|cpa,desktop,/pf/funil/cartoes/cc-shell-internacional/endereco/step-4,[Geral - NC - NP] Negado,1
+20190924,comparaonline|compara-online / display|cpa,desktop,/pf/funil/cartoes/cc-shell-internacional/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,comparaonline|compara-online / display|cpa,desktop,/pf/produto/cartoes/aadvantage-gold/pagina-de-produto,[Geral - NC - NP] Negado,4
+20190924,comparaonline|compara-online / display|cpa,desktop,/pf/produto/cartoes/dufry/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,comparaonline|compara-online / display|cpa,desktop,/pf/produto/cartoes/oab/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,comparaonline|compara-online / display|cpa,desktop,/pf/produto/cartoes/vivo-internacional/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,comparaonline|compara-online / display|cpa,mobile,/pf/funil/cartoes/(not set)/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,comparaonline|compara-online / display|cpa,mobile,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,1
+20190924,comparaonline|compara-online / display|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,36
+20190924,comparaonline|compara-online / display|cpa,mobile,/pf/funil/cartoes/cc-shell-internacional/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,10
+20190924,comparaonline|compara-online / display|cpa,mobile,/pf/produto/cartoes/aadvantage-black/pagina-de-produto,[Geral - NC - NP] Negado,3
+20190924,comparaonline|compara-online / display|cpa,mobile,/pf/produto/cartoes/aadvantage-gold/pagina-de-produto,[Geral - NC - NP] Negado,6
+20190924,comparaonline|compara-online / display|cpa,mobile,/pf/produto/cartoes/aadvantage-platinum/pagina-de-produto,[Geral - NC - NP] Negado,4
+20190924,comparaonline|compara-online / display|cpa,mobile,/pf/produto/cartoes/dufry/pagina-de-produto,[Geral - NC - NP] Negado,3
+20190924,comparaonline|compara-online / display|cpa,mobile,/pf/produto/cartoes/oab/pagina-de-produto,[Geral - NC - NP] Negado,4
+20190924,comparaonline|compara-online / display|cpa,mobile,/pf/produto/cartoes/play/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,comparaonline|compara-online / display|cpa,mobile,/pf/produto/cartoes/smiles-infinite/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,comparaonline|ros / display|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,criteo|criteo / display|cpa,desktop,/home,[Geral - NC - NP] Negado,2
+20190924,criteo|criteo / display|cpa,desktop,/pf/funil/cartoes/cc-123/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,criteo|criteo / display|cpa,desktop,/pf/funil/cartoes/cc-aa-platinum/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,criteo|criteo / display|cpa,desktop,/pf/funil/cartoes/cc-aa-platinum/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,criteo|criteo / display|cpa,desktop,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,1
+20190924,criteo|criteo / display|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,2
+20190924,criteo|criteo / display|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,3
+20190924,criteo|criteo / display|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,49
+20190924,criteo|criteo / display|cpa,desktop,/pf/funil/cartoes/cc-smiles-platinum/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,criteo|criteo / display|cpa,desktop,/pf/produto/cartoes/123/solicitar,[Geral - NC - NP] Negado,3
+20190924,criteo|criteo / display|cpa,desktop,/pf/produto/cartoes/aadvantage-black/pagina-de-produto,[Geral - NC - NP] Negado,4
+20190924,criteo|criteo / display|cpa,desktop,/pf/produto/cartoes/aadvantage-gold/pagina-de-produto,[Geral - NC - NP] Negado,17
+20190924,criteo|criteo / display|cpa,desktop,/pf/produto/cartoes/aadvantage-platinum/pagina-de-produto,[Geral - NC - NP] Negado,4
+20190924,criteo|criteo / display|cpa,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,2
+20190924,criteo|criteo / display|cpa,desktop,/pf/produto/cartoes/smiles-gold/pagina-de-produto,[Geral - NC - NP] Negado,4
+20190924,criteo|criteo / display|cpa,desktop,/pf/produto/cartoes/smiles-platinum/pagina-de-produto,[Geral - NC - NP] Negado,5
+20190924,criteo|criteo / display|cpa,mobile,/home,[Geral - NC - NP] Negado,3
+20190924,criteo|criteo / display|cpa,mobile,/pf/funil/cartoes/(not set)/cadastro/step-3a,[Geral - CC e NC - NP] Aprovado,1
+20190924,criteo|criteo / display|cpa,mobile,/pf/funil/cartoes/(not set)/token,[Geral - NC - NP] Negado,2
+20190924,criteo|criteo / display|cpa,mobile,/pf/funil/cartoes/cc-123/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,criteo|criteo / display|cpa,mobile,/pf/funil/cartoes/cc-aa-gold/continuar-pedido,[Geral - NC - NP] Negado,1
+20190924,criteo|criteo / display|cpa,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,3
+20190924,criteo|criteo / display|cpa,mobile,/pf/funil/cartoes/cc-free/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,1
+20190924,criteo|criteo / display|cpa,mobile,/pf/funil/cartoes/cc-free/situacao-do-cadastro,[Geral - NC - NP] Negado,1
+20190924,criteo|criteo / display|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,10
+20190924,criteo|criteo / display|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,1
+20190924,criteo|criteo / display|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,90
+20190924,criteo|criteo / display|cpa,mobile,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,2
+20190924,criteo|criteo / display|cpa,mobile,/pf/funil/cartoes/cc-smiles-infinite/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,criteo|criteo / display|cpa,mobile,/pf/produto/cartoes/123/solicitar,[Geral - NC - NP] Negado,9
+20190924,criteo|criteo / display|cpa,mobile,/pf/produto/cartoes/aadvantage-black/pagina-de-produto,[Geral - NC - NP] Negado,7
+20190924,criteo|criteo / display|cpa,mobile,/pf/produto/cartoes/aadvantage-black/pagina-de-produto,[Geral - CC - NP] Negado,1
+20190924,criteo|criteo / display|cpa,mobile,/pf/produto/cartoes/aadvantage-black/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,criteo|criteo / display|cpa,mobile,/pf/produto/cartoes/aadvantage-gold/pagina-de-produto,[Geral - NC - NP] Negado,26
+20190924,criteo|criteo / display|cpa,mobile,/pf/produto/cartoes/aadvantage-gold/pagina-de-produto,[Geral - CC - NP] Negado,1
+20190924,criteo|criteo / display|cpa,mobile,/pf/produto/cartoes/aadvantage-platinum/pagina-de-produto,[Geral - NC - NP] Negado,9
+20190924,criteo|criteo / display|cpa,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,2
+20190924,criteo|criteo / display|cpa,mobile,/pf/produto/cartoes/smiles-gold/pagina-de-produto,[Geral - NC - NP] Negado,9
+20190924,criteo|criteo / display|cpa,mobile,/pf/produto/cartoes/smiles-gold/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,criteo|criteo / display|cpa,mobile,/pf/produto/cartoes/smiles-gold/pagina-de-produto,[Geral - CC - NP] Negado,1
+20190924,criteo|criteo / display|cpa,mobile,/pf/produto/cartoes/smiles-infinite/pagina-de-produto,[Geral - NC - NP] Negado,3
+20190924,criteo|criteo / display|cpa,mobile,/pf/produto/cartoes/smiles-platinum/pagina-de-produto,[Geral - NC - NP] Negado,4
+20190924,criteo|criteo / display|cpc,desktop,/funil/renegociacao/digite-seu-cpf-ou-cnpj/step-2,[Geral - NC - NP] Negado,1
+20190924,criteo|criteo / display|cpc,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,criteo|criteo / display|cpc,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,2
+20190924,criteo|criteo / display|cpc,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC - NP] Negado,1
+20190924,criteo|ros / display|cpc,mobile,/home,[Geral - NC - NP] Negado,3
+20190924,criteo|ros / display|cpc,mobile,/pf/chat/seguro-,[Geral - NC - NP] Negado,1
+20190924,criteo|ros / display|cpc,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,cross-sell-app-santander / botao-home-ncc,mobile,/home,[Geral - NC - NP] Negado,11
+20190924,cross-sell-app-santander / botao-home-ncc,mobile,/pf/chat/seguro-,[Geral - NC - NP] Negado,1
+20190924,cross-sell-app-santander / botao-home-ncc,mobile,/pf/chat/seguro-,[Geral - CC - NP] Negado,1
+20190924,cross-sell-app-santander / botao-home-ncc,mobile,/pf/funil/cartoes/cc-free/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,1
+20190924,cross-sell-app-santander / botao-home-ncc,mobile,/pf/funil/cartoes/cc-free/situacao-do-cadastro,[Geral - NC - NP] Negado,1
+20190924,cross-sell-app-santander / botao-home-ncc,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,3
+20190924,cross-sell-app-santander / botao-home-ncc,mobile,/pf/funil/contas/abertura-de-conta/cadastro-cpf/step-1a,[Geral - NC - NP] Negado,1
+20190924,cross-sell-app-santander / botao-home-ncc,mobile,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - NC - NP] Negado,10
+20190924,cross-sell-app-santander / botao-home-ncc,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,4
+20190924,cross-sell-app-santander / botao-home-ncc,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,cross-sell-app-santander / botao-home-ncc,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,2
+20190924,cross-sell-app-santander / botao-home-ncc,tablet,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - NC - NP] Negado,1
+20190924,cross-sell-financeira / pagunificada-indicacao,desktop,/pf/funil/contas/abertura-de-conta/cadastro-cpf/step-1a,[Geral - NC - NP] Negado,1
+20190924,cross-sell-financeira / portal-posvenda,desktop,/home,[Geral - CC e NC - NP] Aprovado,1
+20190924,cse.google.com / referral,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,dbm|youtube / video|cpv,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,dutyfreedufry.com.br / referral,desktop,/home,[Geral - NC - NP] Negado,1
+20190924,ebumk.com.br / referral,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,2
+20190924,ecred / botao,desktop,/home,[Geral - NC - NP] Negado,1
+20190924,ecred / botao,desktop,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,ecred / botao,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,3
+20190924,ecred / botao,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,33
+20190924,ecred / botao,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,4
+20190924,ecred / botao,desktop,/pf/produto/cartoes/smiles-gold/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,ecred / botao,desktop,/pf/produto/cartoes/smiles-gold/pagina-de-produto,[Geral - NC - NP] Negado,3
+20190924,ecred / botao,mobile,/pf/funil/cartoes/(not set)/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,ecred / botao,mobile,/pf/funil/cartoes/(not set)/token,[Geral - CC e NC - NP] Aprovado,1
+20190924,ecred / botao,mobile,/pf/funil/cartoes/(not set)/token,[Geral - NC - NP] Negado,1
+20190924,ecred / botao,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,9
+20190924,ecred / botao,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,94
+20190924,ecred / botao,mobile,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,1
+20190924,ecred / botao,mobile,/pf/funil/cartoes/cc-smiles-gold/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,ecred / botao,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,ecred / botao,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,8
+20190924,ecred / botao,mobile,/pf/produto/cartoes/smiles-gold/pagina-de-produto,[Geral - NC - NP] Negado,10
+20190924,ecred / botao,tablet,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,email-retomada / botao-realizar-consulta,mobile,/home,[Geral - NC - NP] Negado,3
+20190924,email-retomada / botao-realizar-consulta,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,email-retomada / botao-realizar-consulta,mobile,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - NC - NP] Negado,2
+20190924,email-retomada / botao-realizar-consulta,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC - NP] Negado,1
+20190924,email-retomada / botao-realizar-consulta,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,2
+20190924,email-retomada / botao-realizar-continuar,mobile,/home,[Geral - NC - NP] Negado,1
+20190924,email-retomada / botao-realizar-continuar,mobile,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - NC - NP] Negado,1
+20190924,facebook / botao_time-line,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,facebook:news-feed / social-ads,mobile,/pf/produto/cartoes/123/pagina-de-produto,[Geral - NC - NP] Negado,2
+20190924,facebook|facebook / social-ads|cpm,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,facebook|feeds / carrossel|cpm,desktop,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,facebook|feeds / carrossel|cpm,desktop,/pf/produto/cartoes/aadvantage/solicitar,[Geral - CC - NP] Negado,1
+20190924,facebook|feeds / carrossel|cpm,mobile,/pf/funil/cartoes/cc-aa-gold/endereco/step-4,[Geral - NC - NP] Negado,1
+20190924,facebook|feeds / carrossel|cpm,mobile,/pf/funil/cartoes/cc-aa-gold/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,facebook|feeds / carrossel|cpm,mobile,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,28
+20190924,facebook|feeds / carrossel|cpm,mobile,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,3
+20190924,facebook|feeds / carrossel|cpm,mobile,/pf/funil/cartoes/cc-aa-gold/token,[Geral - NC - NP] Negado,1
+20190924,facebook|feeds / carrossel|cpm,mobile,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - CC e NC - NP] Aprovado,1
+20190924,facebook|feeds / carrossel|cpm,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,2
+20190924,facebook|feeds / carrossel|cpm,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,1
+20190924,facebook|feeds / carrossel|cpm,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,20
+20190924,facebook|feeds / carrossel|cpm,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - CC - NP] Negado,1
+20190924,facebook|feeds / imagem|cpm,desktop,/home,[Geral - NC - NP] Negado,1
+20190924,facebook|feeds / imagem|cpm,desktop,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,facebook|feeds / imagem|cpm,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,30
+20190924,facebook|feeds / imagem|cpm,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,2
+20190924,facebook|feeds / imagem|cpm,desktop,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,5
+20190924,facebook|feeds / imagem|cpm,mobile,/home,[Geral - NC - NP] Negado,2
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/funil/cartoes/(not set)/endereco/step-4,[Geral - NC - NP] Negado,1
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/funil/cartoes/cc-aa-gold/endereco/step-4,[Geral - NC - NP] Negado,1
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/funil/cartoes/cc-aa-gold/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,1
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,29
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/funil/cartoes/cc-aa-gold/token,[Geral - NC - NP] Negado,1
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,2
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/funil/cartoes/cc-free/continuar-pedido,[Geral - NC - NP] Negado,1
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,7
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - CC e NC - NP] Aprovado,1
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,5
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/funil/cartoes/cc-free/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,3
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,5
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,23
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,531
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,4
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - CC e NC - NP] Aprovado,4
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,80
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - CC - NP] Negado,1
+20190924,facebook|feeds / imagem|cpm,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,facebook|feeds / imagem|cpm,tablet,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,facebook|feeds / video|cpm,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,facebook|feeds / video|cpm,desktop,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,1
+20190924,facebook|feeds / video|cpm,mobile,/pf/funil/cartoes/cc-aa-gold/erro-sessao-expirada,[Geral - CC - NP] Negado,1
+20190924,facebook|feeds / video|cpm,mobile,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,22
+20190924,facebook|feeds / video|cpm,mobile,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,2
+20190924,facebook|feeds / video|cpm,mobile,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,2
+20190924,facebook|feeds / video|cpm,mobile,/pf/funil/cartoes/cc-free/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,1
+20190924,facebook|feeds / video|cpm,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,163
+20190924,facebook|feeds / video|cpm,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,6
+20190924,facebook|feeds / video|cpm,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,18
+20190924,facebook|feeds / video|cpm,tablet,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,facebook|news-feed / social-ads|cpa,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,facebook|news-feed / social-ads|cpa,mobile,/pf/funil/cartoes/cc-free/continuar-pedido,[Geral - NC - NP] Negado,1
+20190924,facebook|news-feed / social-ads|cpa,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,financiamentoecredito.com / referral,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,2
+20190924,financiamentoecredito.com / referral,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,financiamentoecredito.com / referral,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC - NP] Negado,1
+20190924,financiamentoecredito.com / referral,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,10
+20190924,foregon.com / (not set),desktop,/pf/produto/cartoes/elite-platinum/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,foregon|foregon / display|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,6
+20190924,foregon|foregon / display|cpa,desktop,/pf/produto/cartoes/123/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,foregon|foregon / display|cpa,desktop,/pf/produto/cartoes/play/pagina-de-produto,[Geral - NC - NP] Negado,4
+20190924,foregon|foregon / display|cpa,desktop,/pf/produto/cartoes/smiles-gold/pagina-de-produto,[Geral - NC - NP] Negado,2
+20190924,foregon|foregon / display|cpa,desktop,/pf/produto/cartoes/smiles-platinum/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,foregon|foregon / display|cpa,mobile,/home,[Geral - NC - NP] Negado,1
+20190924,foregon|foregon / display|cpa,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,foregon|foregon / display|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,22
+20190924,foregon|foregon / display|cpa,mobile,/pf/produto/cartoes/aadvantage-gold/pagina-de-produto,[Geral - NC - NP] Negado,5
+20190924,foregon|foregon / display|cpa,mobile,/pf/produto/cartoes/play/pagina-de-produto,[Geral - NC - NP] Negado,4
+20190924,foregon|foregon / display|cpa,mobile,/pf/produto/cartoes/play/pagina-de-produto,[Geral - CC - NP] Negado,1
+20190924,foregon|foregon / display|cpa,mobile,/pf/produto/cartoes/smiles-gold/pagina-de-produto,[Geral - NC - NP] Negado,2
+20190924,foregon|ros / display|cpa,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,globocom|globocom / display|patrocinio,desktop,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,1
+20190924,gog-br.com / referral,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,google / cpc,desktop,/home,[Geral - NC - NP] Negado,13
+20190924,google / cpc,desktop,/pf/familia/credito/vitrine/creditos-e-financiamentos-para-voce,[Geral - NC - NP] Negado,1
+20190924,google / cpc,desktop,/pf/funil/cartoes/cc-123/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,google / cpc,desktop,/pf/funil/cartoes/cc-123/token,[Geral - NC - NP] Negado,1
+20190924,google / cpc,desktop,/pf/funil/cartoes/cc-aa-black/token,[Geral - NC - NP] Negado,1
+20190924,google / cpc,desktop,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,2
+20190924,google / cpc,desktop,/pf/funil/cartoes/cc-aa-platinum/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / cpc,desktop,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,7
+20190924,google / cpc,desktop,/pf/funil/cartoes/cc-free/continuar-pedido,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / cpc,desktop,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,3
+20190924,google / cpc,desktop,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,11
+20190924,google / cpc,desktop,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / cpc,desktop,/pf/funil/cartoes/cc-free/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,2
+20190924,google / cpc,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,8
+20190924,google / cpc,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,64
+20190924,google / cpc,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,585
+20190924,google / cpc,desktop,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,10
+20190924,google / cpc,desktop,/pf/funil/cartoes/cc-free/token,[Geral - CC e NC - NP] Aprovado,2
+20190924,google / cpc,desktop,/pf/funil/cartoes/cc-play/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,google / cpc,desktop,/pf/funil/cartoes/cc-smiles-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,google / cpc,desktop,/pf/funil/cartoes/free/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,google / cpc,desktop,/pf/funil/cartoes/shell-internacional/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,1
+20190924,google / cpc,desktop,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - NC - NP] Negado,3
+20190924,google / cpc,desktop,/pf/produto/cartoes/123/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,google / cpc,desktop,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,4
+20190924,google / cpc,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,103
+20190924,google / cpc,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,4
+20190924,google / cpc,desktop,/pf/produto/cartoes/play/pagina-de-produto,[Geral - NC - NP] Negado,10
+20190924,google / cpc,desktop,/pf/produto/cartoes/shell-internacional/pagina-de-produto,[Geral - NC - NP] Negado,2
+20190924,google / cpc,desktop,/pf/produto/cartoes/smiles,[Geral - NC - NP] Negado,2
+20190924,google / cpc,desktop,/pf/produto/cartoes/smiles-gold/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,2
+20190924,google / cpc,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,20
+20190924,google / cpc,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,303
+20190924,google / cpc,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC - NP] Negado,8
+20190924,google / cpc,mobile,/conversa/contas/abertura-de-conta/a-conta-vai-ser-para-quem,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/funil/renegociacao/digite-seu-cpf-ou-cnpj/step-2,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/home,[Geral - CC e NC - NP] Aprovado,2
+20190924,google / cpc,mobile,/home,[Geral - CC - NP] Negado,1
+20190924,google / cpc,mobile,/home,[Geral - NC - NP] Negado,57
+20190924,google / cpc,mobile,/pf/chat/seguro-,[Geral - CC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/erro/cartoes,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/funil/cartoes/(not set)/biometria/step-7a,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/funil/cartoes/(not set)/cadastro/step-3a,[Geral - NC - NP] Negado,7
+20190924,google / cpc,mobile,/pf/funil/cartoes/(not set)/continuar-pedido,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/funil/cartoes/(not set)/endereco/step-4,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/funil/cartoes/(not set)/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/funil/cartoes/(not set)/token,[Geral - NC - NP] Negado,7
+20190924,google / cpc,mobile,/pf/funil/cartoes/aadvantage-gold/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-123/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-aa-gold/cadastro/step-3a,[Geral - NC - NP] Negado,3
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-aa-gold/erro-sessao-expirada,[Geral - NC - NP] Negado,4
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-aa-gold/situacao-do-cadastro,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,11
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-free/biometria/step-7a,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - CC e NC - NP] Aprovado,2
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,16
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-free/continuar-pedido,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-free/continuar-pedido,[Geral - NC - NP] Negado,6
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,13
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,28
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-free/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,4
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-free/personalize-cartao-basico/step-6,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-free/situacao-do-cadastro,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,17
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,149
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,2378
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,22
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-free/token,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-play/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/funil/cartoes/cc-play/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/funil/cartoes/vivo-internacional/fidelidade-vivo,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - CC e NC - NP] Aprovado,2
+20190924,google / cpc,mobile,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - NC - NP] Negado,11
+20190924,google / cpc,mobile,/pf/produto/aplicativos/app-way,[Geral - NC - NP] Negado,5
+20190924,google / cpc,mobile,/pf/produto/aplicativos/app-way,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / cpc,mobile,/pf/produto/cartoes/123/pagina-de-produto,[Geral - NC - NP] Negado,3
+20190924,google / cpc,mobile,/pf/produto/cartoes/aa-gold/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,3
+20190924,google / cpc,mobile,/pf/produto/cartoes/aa-gold/pagina-de-produto,[Geral - NC - NP] Negado,64
+20190924,google / cpc,mobile,/pf/produto/cartoes/aa-gold/pagina-de-produto-conheca,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/produto/cartoes/aa-platinum/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/produto/cartoes/aadvantage-gold/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / cpc,mobile,/pf/produto/cartoes/aadvantage-gold/pagina-de-produto,[Geral - NC - NP] Negado,54
+20190924,google / cpc,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - CC - NP] Negado,2
+20190924,google / cpc,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - CC e NC - NP] Aprovado,11
+20190924,google / cpc,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,225
+20190924,google / cpc,mobile,/pf/produto/cartoes/elite-platinum/pagina-de-produto,[Geral - NC - NP] Negado,2
+20190924,google / cpc,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,386
+20190924,google / cpc,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC - NP] Negado,5
+20190924,google / cpc,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,27
+20190924,google / cpc,mobile,/pf/produto/cartoes/outros-cartoes/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/produto/cartoes/play/pagina-de-produto,[Geral - NC - NP] Negado,22
+20190924,google / cpc,mobile,/pf/produto/cartoes/shell-internacional/pagina-de-produto,[Geral - NC - NP] Negado,3
+20190924,google / cpc,mobile,/pf/produto/cartoes/smiles,[Geral - NC - NP] Negado,11
+20190924,google / cpc,mobile,/pf/produto/cartoes/smiles,[Geral - CC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/produto/cartoes/smiles,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / cpc,mobile,/pf/produto/cartoes/smiles-gold/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1017
+20190924,google / cpc,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,47
+20190924,google / cpc,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC - NP] Negado,13
+20190924,google / cpc,mobile,/pj/funil/conta-corrente/abertura-de-conta-empresarial,[Geral - NC - NP] Negado,2
+20190924,google / cpc,mobile,/produto/atendimento/acesso-nao-correntista,[Geral - NC - NP] Negado,3
+20190924,google / cpc,mobile,/produto/atendimento/internet-banking,[Geral - NC - NP] Negado,1
+20190924,google / cpc,mobile,/produto/credito/credito-imobiliario,[Geral - NC - NP] Negado,1
+20190924,google / cpc,tablet,/pf/funil/cartoes/cc-free/personalize-cartao-basico/step-6,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / cpc,tablet,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,16
+20190924,google / cpc,tablet,/pf/funil/contas/abertura-de-conta/cadastro-cpf/step-1a,[Geral - NC - NP] Negado,1
+20190924,google / cpc,tablet,/pf/produto/cartoes/aa-gold/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,google / cpc,tablet,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,1
+20190924,google / cpc,tablet,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / cpc,tablet,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,6
+20190924,google / cpc,tablet,/pf/produto/cartoes/smiles-gold/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,google / cpc,tablet,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,21
+20190924,google / cpc,tablet,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / cpc,tablet,/produto/atendimento/internet-banking,[Geral - NC - NP] Negado,1
+20190924,google / organic,desktop,/erro,[Geral - NC - NP] Negado,1
+20190924,google / organic,desktop,/home,[Geral - NC - NP] Negado,179
+20190924,google / organic,desktop,/home,[Geral - CC - NP] Negado,6
+20190924,google / organic,desktop,/home,[Geral - CC e NC - NP] Aprovado,21
+20190924,google / organic,desktop,/pf/funil/cartoes/(not set)/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,google / organic,desktop,/pf/funil/cartoes/cc-123/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,google / organic,desktop,/pf/funil/cartoes/cc-123/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,google / organic,desktop,/pf/funil/cartoes/cc-aa-gold/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,google / organic,desktop,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,google / organic,desktop,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,desktop,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,2
+20190924,google / organic,desktop,/pf/funil/cartoes/cc-free/continuar-pedido,[Geral - NC - NP] Negado,1
+20190924,google / organic,desktop,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,9
+20190924,google / organic,desktop,/pf/funil/cartoes/cc-free/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,1
+20190924,google / organic,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,1
+20190924,google / organic,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,40
+20190924,google / organic,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,4
+20190924,google / organic,desktop,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,4
+20190924,google / organic,desktop,/pf/funil/cartoes/cc-play/erro-sessao-expirada,[Geral - NC - NP] Negado,2
+20190924,google / organic,desktop,/pf/funil/cartoes/cc-play/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,3
+20190924,google / organic,desktop,/pf/funil/cartoes/cc-smiles-platinum/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,google / organic,desktop,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - NC - NP] Negado,1
+20190924,google / organic,desktop,/pf/interna/cartoes/parcelamento-fatura,[Geral - NC - NP] Negado,1
+20190924,google / organic,desktop,/pf/produto/aplicativos/app-santander,[Geral - NC - NP] Negado,1
+20190924,google / organic,desktop,/pf/produto/aplicativos/app-way,[Geral - NC - NP] Negado,1
+20190924,google / organic,desktop,/pf/produto/atendimento/emissao-boleto-vencido,[Geral - NC - NP] Negado,3
+20190924,google / organic,desktop,/pf/produto/atendimento/telefones-santander,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,desktop,/pf/produto/cartoes/aa-black/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,desktop,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,2
+20190924,google / organic,desktop,/pf/produto/cartoes/elite-platinum/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,google / organic,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC - NP] Negado,3
+20190924,google / organic,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,188
+20190924,google / organic,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,19
+20190924,google / organic,desktop,/pf/produto/cartoes/free/pagina-de-produto-conheca,[Geral - NC - NP] Negado,1
+20190924,google / organic,desktop,/pf/produto/cartoes/outros-cartoes/pagina-de-produto,[Geral - NC - NP] Negado,3
+20190924,google / organic,desktop,/pf/produto/cartoes/outros-cartoes/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,desktop,/pf/produto/cartoes/play/pagina-de-produto,[Geral - NC - NP] Negado,13
+20190924,google / organic,desktop,/pf/produto/cartoes/play/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,desktop,/pf/produto/cartoes/smiles,[Geral - NC - NP] Negado,3
+20190924,google / organic,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,213
+20190924,google / organic,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC - NP] Negado,6
+20190924,google / organic,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,17
+20190924,google / organic,desktop,/pf/produto/consorcio/simular-consorcio-para-carros-e-motos,[Geral - CC - NP] Negado,1
+20190924,google / organic,desktop,/pf/produto/conta-corrente/portabilidade-de-salario,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,desktop,/pf/produto/credito/credito-pessoal,[Geral - CC - NP] Negado,1
+20190924,google / organic,desktop,/pf/produto/universidades/vitrine,[Geral - NC - NP] Negado,8
+20190924,google / organic,desktop,/produto/atendimento/acesso-nao-correntista,[Geral - NC - NP] Negado,3
+20190924,google / organic,desktop,/produto/atendimento/internet-banking,[Geral - NC - NP] Negado,5
+20190924,google / organic,desktop,/produto/atendimento/novo-internet-banking,[Geral - NC - NP] Negado,2
+20190924,google / organic,mobile,/buscador-de-agencia/atendimento/encontre-uma-agencia,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/home,[Geral - CC e NC - NP] Aprovado,18
+20190924,google / organic,mobile,/home,[Geral - NC - NP] Negado,172
+20190924,google / organic,mobile,/home,[Geral - CC - NP] Negado,4
+20190924,google / organic,mobile,/pf/chat/seguro-,[Geral - CC - NP] Negado,1
+20190924,google / organic,mobile,/pf/erro/cartoes,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/familia/atendimento/vitrine/atendimento-para-voce,[Geral - NC - NP] Negado,4
+20190924,google / organic,mobile,/pf/familia/seguro/vitrine/seguros,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/funil/cartoes/(not set)/cadastro/step-3a,[Geral - NC - NP] Negado,8
+20190924,google / organic,mobile,/pf/funil/cartoes/(not set)/cadastro/step-3a,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,mobile,/pf/funil/cartoes/(not set)/continuar-pedido,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/funil/cartoes/(not set)/endereco/step-4,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/funil/cartoes/(not set)/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/funil/cartoes/(not set)/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/funil/cartoes/(not set)/token,[Geral - NC - NP] Negado,17
+20190924,google / organic,mobile,/pf/funil/cartoes/(not set)/token,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-123/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-123/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,3
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-aa-gold/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,3
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-elite-platinum/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,2
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,11
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-free/continuar-pedido,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-free/continuar-pedido,[Geral - NC - NP] Negado,2
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,4
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - CC e NC - NP] Aprovado,3
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,14
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-free/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,8
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-free/situacao-do-cadastro,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,23
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,4
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,262
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-free/token,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,12
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-play/cadastro-comprovante-universitario/step-3b,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-play/cadastro/step-3a,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-play/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-play/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/funil/cartoes/cc-play/token,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/funil/contas/abertura-de-conta/cadastro-cpf/step-1a,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/funil/contas/abertura-de-conta/token,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,mobile,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - NC - NP] Negado,6
+20190924,google / organic,mobile,/pf/produto/aplicativos/app-santander,[Geral - NC - NP] Negado,3
+20190924,google / organic,mobile,/pf/produto/aplicativos/app-way,[Geral - NC - NP] Negado,6
+20190924,google / organic,mobile,/pf/produto/atendimento/ouvidoria,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/produto/atendimento/telefones-santander,[Geral - NC - NP] Negado,4
+20190924,google / organic,mobile,/pf/produto/atendimento/telefones-santander,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,mobile,/pf/produto/cartoes/123/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/produto/cartoes/aa-gold/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,6
+20190924,google / organic,mobile,/pf/produto/cartoes/basico/pagina-de-produto,[Geral - NC - NP] Negado,2
+20190924,google / organic,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,70
+20190924,google / organic,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1218
+20190924,google / organic,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC - NP] Negado,9
+20190924,google / organic,mobile,/pf/produto/cartoes/outros-cartoes/pagina-de-produto,[Geral - NC - NP] Negado,5
+20190924,google / organic,mobile,/pf/produto/cartoes/outros-cartoes/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,mobile,/pf/produto/cartoes/play/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,mobile,/pf/produto/cartoes/play/pagina-de-produto,[Geral - NC - NP] Negado,23
+20190924,google / organic,mobile,/pf/produto/cartoes/play/pagina-de-produto-conheca,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/produto/cartoes/smiles,[Geral - NC - NP] Negado,2
+20190924,google / organic,mobile,/pf/produto/cartoes/smiles-gold/pagina-de-produto,[Geral - NC - NP] Negado,2
+20190924,google / organic,mobile,/pf/produto/cartoes/smiles-infinite/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,mobile,/pf/produto/cartoes/smiles-infinite/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/produto/cartoes/smiles-platinum/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC - NP] Negado,10
+20190924,google / organic,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,886
+20190924,google / organic,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,37
+20190924,google / organic,mobile,/pf/produto/consorcio/consorcio-de-veiculos,[Geral - NC - NP] Negado,2
+20190924,google / organic,mobile,/pf/produto/consorcio/planos-de-consorcio,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/produto/conta-corrente/conta-corrente-santander,[Geral - NC - NP] Negado,2
+20190924,google / organic,mobile,/pf/produto/conta-corrente/encerramento-de-conta,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/pf/produto/credito/credito-pessoal,[Geral - CC - NP] Negado,1
+20190924,google / organic,mobile,/pf/produto/credito/credito-pessoal,[Geral - NC - NP] Negado,3
+20190924,google / organic,mobile,/pf/produto/universidades/vitrine,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,mobile,/pf/produto/universidades/vitrine,[Geral - NC - NP] Negado,12
+20190924,google / organic,mobile,/pj/produto/conta-corrente/conta-corrente-santander-empresas,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/produto/atendimento/acesso-nao-correntista,[Geral - NC - NP] Negado,1
+20190924,google / organic,mobile,/produto/atendimento/novo-internet-banking,[Geral - NC - NP] Negado,1
+20190924,google / organic,tablet,/home,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,tablet,/home,[Geral - NC - NP] Negado,1
+20190924,google / organic,tablet,/pf/familia/atendimento/vitrine/atendimento-para-voce,[Geral - NC - NP] Negado,1
+20190924,google / organic,tablet,/pf/familia/atendimento/vitrine/atendimento-para-voce,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,tablet,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,google / organic,tablet,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,3
+20190924,google / organic,tablet,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,google / organic,tablet,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,2
+20190924,google / organic,tablet,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,7
+20190924,google.com / referral,mobile,/home,[Geral - NC - NP] Negado,1
+20190924,googleads.g.doubleclick.net / referral,mobile,/home,[Geral - NC - NP] Negado,2
+20190924,googleads.g.doubleclick.net / referral,mobile,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,googleads.g.doubleclick.net / referral,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,3
+20190924,googleads.g.doubleclick.net / referral,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,googleads.g.doubleclick.net / referral,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,1
+20190924,googleads.g.doubleclick.net / referral,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,27
+20190924,googledbm|blast / display|diaria,mobile,/home,[Geral - NC - NP] Negado,1
+20190924,googledbm|blast / display|diaria,mobile,/pf/funil/cartoes/cc-play/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,googleweblight.com / referral,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,2
+20190924,ib / carrossel,desktop,/pf/produto/cartoes/123/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,ib / carrossel,desktop,/pf/produto/cartoes/elite-platinum/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,ib / carrossel,desktop,/pf/produto/cartoes/elite-platinum/pagina-de-produto,[Geral - CC - NP] Negado,1
+20190924,ib / carrossel,desktop,/pf/produto/cartoes/elite-platinum/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib / carrossel,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,5
+20190924,ib / nc,desktop,/home,[Geral - NC - NP] Negado,1
+20190924,ib / nc,desktop,/pf/produto/cartoes/santander-pass/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,ib / widget,desktop,/home,[Geral - NC - NP] Negado,1
+20190924,ib / widget,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,23
+20190924,ib / widget,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC - NP] Negado,3
+20190924,ib / widget,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,16
+20190924,ib / widget,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,ib_mobile / card,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,11
+20190924,ib_mobile / solicitar_cartao,mobile,/home,[Geral - NC - NP] Negado,2
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/chat/seguro-,[Geral - CC - NP] Negado,1
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/erro/cartoes,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/funil/cartoes/(not set)/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/funil/cartoes/(not set)/personalize-cartao-basico/step-6,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/funil/cartoes/(not set)/token,[Geral - NC - NP] Negado,1
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/funil/cartoes/cc-elite-platinum/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,2
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/funil/cartoes/cc-free/senha-ib/step-2,[Geral - CC e NC - NP] Aprovado,2
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,140
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,262
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,420
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/funil/cartoes/cc-free/token,[Geral - CC e NC - NP] Aprovado,2
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/funil/cartoes/cc-play/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/funil/cartoes/cc-play/token,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/produto/cartoes/elite-platinum/pagina-de-produto,[Geral - NC - NP] Negado,2
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/produto/cartoes/elite-platinum/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,11
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/produto/cartoes/elite-platinum/pagina-de-produto,[Geral - CC - NP] Negado,9
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/produto/cartoes/elite-platinum/pagina-de-produto-conheca,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,8
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,9
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC - NP] Negado,3
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/produto/cartoes/play/pagina-de-produto,[Geral - NC - NP] Negado,34
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/produto/cartoes/play/pagina-de-produto,[Geral - CC - NP] Negado,13
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/produto/cartoes/play/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,36
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/produto/cartoes/unique-black/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/produto/consorcio/planos-de-consorcio,[Geral - NC - NP] Negado,2
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/produto/consorcio/planos-de-consorcio,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib_mobile / solicitar_cartao,mobile,/pf/produto/consorcio/planos-de-consorcio,[Geral - CC - NP] Negado,1
+20190924,ib_mobile-carrossel-especial / carrossel,mobile,/home,[Geral - CC - NP] Negado,1
+20190924,ib_mobile-carrossel-especial / carrossel,mobile,/pf/chat/seguro-,[Geral - CC - NP] Negado,1
+20190924,ib_mobile-carrossel-especial / carrossel,mobile,/pf/erro/cartoes,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib_mobile-carrossel-especial / carrossel,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,ib_mobile-carrossel-especial / carrossel,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,3
+20190924,ib_mobile-carrossel-especial / carrossel,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,3
+20190924,ib_mobile-carrossel-especial / carrossel,mobile,/pf/funil/cartoes/cc-free/token,[Geral - CC e NC - NP] Aprovado,3
+20190924,ib_mobile-carrossel-especial / carrossel,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC - NP] Negado,1
+20190924,ib_mobile-carrossel-especial / carrossel,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,4
+20190924,ib_mobile-carrossel-especial / carrossel,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,46
+20190924,ib_mobile-carrossel-especial / carrossel,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC - NP] Negado,24
+20190924,ib_mobile-carrossel-especial / carrossel,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,67
+20190924,ib_mobile-carrossel-especial / carrossel,mobile,/pf/produto/consorcio/planos-de-consorcio,[Geral - NC - NP] Negado,1
+20190924,ib_mobile-carrossel-especial / carrossel,mobile,/produto/credito/credito-imobiliario,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib_mobile-carrossel-universitario / carrossel,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,7
+20190924,ib_mobile-carrossel-universitario / carrossel,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,3
+20190924,ib_mobile-carrossel-universitario / carrossel,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC - NP] Negado,2
+20190924,ib_mobile-carrossel-van_gogh / carrossel,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,ib_mobile-carrossel-van_gogh / carrossel,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,4
+20190924,ib_mobile-carrossel-van_gogh / carrossel,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC - NP] Negado,2
+20190924,ib_mobile-carrossel-van_gogh / carrossel,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,6
+20190924,ib_mobile-menu-especial / menu,mobile,/home,[Geral - NC - NP] Negado,1
+20190924,ib_mobile-menu-especial / menu,mobile,/home,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib_mobile-menu-especial / menu,mobile,/pf/funil/cartoes/(not set)/personalize-cartao-basico/step-6,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib_mobile-menu-especial / menu,mobile,/pf/funil/cartoes/(not set)/token,[Geral - NC - NP] Negado,1
+20190924,ib_mobile-menu-especial / menu,mobile,/pf/funil/cartoes/cc-free/cartao-nao-encontrado-para-perfil,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib_mobile-menu-especial / menu,mobile,/pf/funil/cartoes/cc-free/personalize-cartao-basico/step-6,[Geral - CC e NC - NP] Aprovado,2
+20190924,ib_mobile-menu-especial / menu,mobile,/pf/funil/cartoes/cc-free/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,1
+20190924,ib_mobile-menu-especial / menu,mobile,/pf/funil/cartoes/cc-free/senha-ib/step-2,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib_mobile-menu-especial / menu,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,6
+20190924,ib_mobile-menu-especial / menu,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,2
+20190924,ib_mobile-menu-especial / menu,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,3
+20190924,ib_mobile-menu-especial / menu,mobile,/pf/funil/cartoes/cc-free/token,[Geral - CC e NC - NP] Aprovado,2
+20190924,ib_mobile-menu-especial / menu,mobile,/pf/funil/cartoes/cc-play/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,ib_mobile-menu-especial / menu,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC - NP] Negado,1
+20190924,ib_mobile-menu-especial / menu,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,12
+20190924,ib_mobile-menu-especial / menu,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,5
+20190924,ib_mobile-menu-especial / menu,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC - NP] Negado,42
+20190924,ib_mobile-menu-especial / menu,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,100
+20190924,ib_mobile-menu-especial / menu,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,142
+20190924,ib_mobile-menu-especial / menu,mobile,/pf/produto/consorcio/planos-de-consorcio,[Geral - CC e NC - NP] Aprovado,2
+20190924,ib_mobile-menu-especial / menu,tablet,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC - NP] Negado,1
+20190924,ib_mobile-menu-jovem_profissional / menu,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib_mobile-menu-select / menu,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC - NP] Negado,2
+20190924,ib_mobile-menu-universitario / menu,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,ib_mobile-menu-universitario / menu,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,10
+20190924,ib_mobile-menu-universitario / menu,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC - NP] Negado,4
+20190924,ib_mobile-menu-universitario / menu,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,10
+20190924,ib_mobile-menu-van_gogh / menu,mobile,/home,[Geral - NC - NP] Negado,1
+20190924,ib_mobile-menu-van_gogh / menu,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,ib_mobile-menu-van_gogh / menu,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib_mobile-menu-van_gogh / menu,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC - NP] Negado,1
+20190924,ib_mobile-menu-van_gogh / menu,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,ib_mobile-menu-van_gogh / menu,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,16
+20190924,ib_mobile-menu-van_gogh / menu,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC - NP] Negado,8
+20190924,ib_mobile-menu-van_gogh / menu,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,6
+20190924,ib-menu-especial / home,desktop,/home,[Geral - NC - NP] Negado,1
+20190924,ib-menu-especial / home,desktop,/home,[Geral - CC - NP] Negado,2
+20190924,ib-menu-especial / home,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib-menu-especial / home,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC - NP] Negado,6
+20190924,ib-menu-especial / home,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,10
+20190924,ib-menu-especial / home,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,21
+20190924,ib-menu-select / home,desktop,/home,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib-menu-van_gogh / home,desktop,/home,[Geral - CC e NC - NP] Aprovado,1
+20190924,ib-menu-van_gogh / home,desktop,/pf/funil/cartoes/cc-elite-platinum/erro-sessao-expirada,[Geral - CC - NP] Negado,1
+20190924,ib-menu-van_gogh / home,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,4
+20190924,ib-menu-van_gogh / home,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,3
+20190924,ib-menu-van_gogh / home,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC - NP] Negado,4
+20190924,instagram.com / referral,mobile,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,3
+20190924,instagram.com / referral,mobile,/pf/funil/cartoes/cc-free/senha-ib/step-2,[Geral - CC e NC - NP] Aprovado,1
+20190924,instagram.com / referral,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,instagram.com / referral,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,1
+20190924,instagram.com / referral,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - CC e NC - NP] Aprovado,1
+20190924,instagram.com / referral,mobile,/pf/produto/cartoes/santander-pass/pagina-de-produto,[Geral - NC - NP] Negado,2
+20190924,iq.com.br / referral,mobile,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,2
+20190924,iq360 / iq360referral,mobile,/home,[Geral - NC - NP] Negado,1
+20190924,iq360 / iq360referral,mobile,/pf/funil/cartoes/cc-play/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,2
+20190924,iq360 / iq360referral,mobile,/pf/funil/cartoes/cc-smiles-infinite/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,2
+20190924,iq360 / iq360referral,mobile,/pf/funil/cartoes/cc-smiles-platinum/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,iq360|iq360 / display|cpa,desktop,/home,[Geral - NC - NP] Negado,2
+20190924,iq360|iq360 / display|cpa,desktop,/home,[Geral - CC e NC - NP] Aprovado,1
+20190924,iq360|iq360 / display|cpa,desktop,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,1
+20190924,iq360|iq360 / display|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,28
+20190924,iq360|iq360 / display|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,1
+20190924,iq360|iq360 / display|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,1
+20190924,iq360|iq360 / display|cpa,mobile,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,6
+20190924,iq360|iq360 / display|cpa,mobile,/pf/funil/cartoes/cc-free/continuar-pedido,[Geral - NC - NP] Negado,1
+20190924,iq360|iq360 / display|cpa,mobile,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,6
+20190924,iq360|iq360 / display|cpa,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,5
+20190924,iq360|iq360 / display|cpa,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - CC e NC - NP] Aprovado,1
+20190924,iq360|iq360 / display|cpa,mobile,/pf/funil/cartoes/cc-free/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,1
+20190924,iq360|iq360 / display|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,457
+20190924,iq360|iq360 / display|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,25
+20190924,iq360|iq360 / display|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,2
+20190924,iq360|iq360 / display|cpa,mobile,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,2
+20190924,iq360|iq360 / display|cpa,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,iq360|iq360 / display|cpa,tablet,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,jornalfinanceiro.com / referral,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,2
+20190924,l.facebook.com / referral,mobile,/home,[Geral - CC e NC - NP] Aprovado,1
+20190924,l.facebook.com / referral,mobile,/home,[Geral - NC - NP] Negado,10
+20190924,l.facebook.com / referral,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,leadmedia|leadmedia / email|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,leadmedia|leadmedia / email|cpa,desktop,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - NC - NP] Negado,1
+20190924,leadmedia|leadmedia / email|cpa,mobile,/pf/funil/cartoes/(not set)/token,[Geral - NC - NP] Negado,1
+20190924,leadmedia|leadmedia / email|cpa,mobile,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - NC - NP] Negado,1
+20190924,leadmedia|leadmedia / email|cpa,mobile,/pf/produto/seguro/vida,[Geral - NC - NP] Negado,1
+20190924,leadmedia|ros / display|cpl,mobile,/home,[Geral - NC - NP] Negado,2
+20190924,leadmedia|ros / display|cpl,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,links.kuponya.info / referral,mobile,/pf/funil/cartoes/cc-free/token,[Geral - CC - NP] Negado,1
+20190924,lista10.org / referral,mobile,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,3
+20190924,m.facebook.com / referral,mobile,/home,[Geral - NC - NP] Negado,2
+20190924,m.facebook.com / referral,mobile,/pf/erro/cartoes,[Geral - NC - NP] Negado,1
+20190924,m.facebook.com / referral,mobile,/pf/funil/cartoes/(not set)/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,m.facebook.com / referral,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,1
+20190924,m.facebook.com / referral,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,4
+20190924,m.facebook.com / referral,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - CC e NC - NP] Aprovado,1
+20190924,m.facebook.com / referral,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,m.facebook.com / referral,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,3
+20190924,mail.google.com / referral,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,mastercard.com.br / referral,mobile,/home,[Geral - NC - NP] Negado,1
+20190924,meufinanceiro.club / referral,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,mobbie|mobbie / email|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,1
+20190924,mobbie|mobbie / email|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,mobbie|mobbie / email|cpa,mobile,/pf/funil/cartoes/cc-aa-gold/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,mobbie|mobbie / email|cpa,mobile,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,4
+20190924,mobbie|mobbie / email|cpa,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,mobbie|mobbie / email|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,70
+20190924,mobbie|mobbie / email|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,5
+20190924,mobbie|mobbie / email|cpa,mobile,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,1
+20190924,mobbie|mobbie / email|cpa,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,55
+20190924,mobbie|mobbie / email|cpa,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,mobilepf / card,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,mtouch.facebook.com / referral,mobile,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - CC e NC - NP] Aprovado,1
+20190924,nba / tv,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,1
+20190924,oath|oath / display|cpa,desktop,/home,[Geral - NC - NP] Negado,1
+20190924,oath|oath / display|cpa,desktop,/pf/funil/cartoes/(not set)/token,[Geral - NC - NP] Negado,1
+20190924,oath|oath / display|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,22
+20190924,oath|oath / display|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,2
+20190924,oath|oath / display|cpm,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,oath|ros / display|cpm,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,optimize.google.com / referral,desktop,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,1
+20190924,optimize.google.com / referral,desktop,/pf/produto/conta-corrente/conta-corrente-santander,[Geral - NC - NP] Negado,1
+20190924,optimize.google.com / referral,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,outbrain|outbrain / display|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,4
+20190924,outlook.live.com / referral,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,passageiro_de_primeira / (not set),desktop,/pf/funil/cartoes/cc-aa-black/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,passageiro_de_primeira / (not set),desktop,/pf/produto/cartoes/aadvantage/solicitar,[Geral - CC e NC - NP] Aprovado,1
+20190924,passageiro_de_primeira / (not set),desktop,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,7
+20190924,passageiro_de_primeira / (not set),mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - CC e NC - NP] Aprovado,5
+20190924,passageiro_de_primeira / (not set),mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,6
+20190924,pj.santandernetibe.com.br / referral,desktop,/home,[Geral - NC - NP] Negado,9
+20190924,pj.santandernetibe.com.br / referral,desktop,/home,[Geral - CC - NP] Negado,1
+20190924,pj.santandernetibe.com.br / referral,desktop,/home,[Geral - CC e NC - NP] Aprovado,1
+20190924,pj.santandernetibe.com.br / referral,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,1
+20190924,pj.santandernetibe.com.br / referral,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,4
+20190924,plusdin / lead,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,plusdin / lead,desktop,/pf/produto/credito/credito-pessoal,[Geral - NC - NP] Negado,1
+20190924,plusdin / lead,mobile,/pf/produto/credito/credito-pessoal,[Geral - CC e NC - NP] Aprovado,1
+20190924,portal_smiles_nlogada / link_parceiro,desktop,/home,[Geral - CC e NC - NP] Aprovado,1
+20190924,portal_smiles_nlogada / link_parceiro,desktop,/pf/funil/cartoes/cc-smiles-infinite/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,portal_smiles_nlogada / link_parceiro,desktop,/pf/produto/cartoes/smiles,[Geral - CC - NP] Negado,2
+20190924,portal_smiles_nlogada / link_parceiro,desktop,/pf/produto/cartoes/smiles,[Geral - CC e NC - NP] Aprovado,4
+20190924,portal_smiles_nlogada / link_parceiro,desktop,/pf/produto/cartoes/smiles,[Geral - NC - NP] Negado,51
+20190924,portal_smiles_nlogada / link_parceiro,mobile,/home,[Geral - NC - NP] Negado,1
+20190924,portal_smiles_nlogada / link_parceiro,mobile,/pf/funil/cartoes/cc-smiles-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,portal_smiles_nlogada / link_parceiro,mobile,/pf/funil/cartoes/cc-smiles-gold/token,[Geral - CC e NC - NP] Aprovado,1
+20190924,portal_smiles_nlogada / link_parceiro,mobile,/pf/produto/cartoes/smiles,[Geral - CC - NP] Negado,1
+20190924,portal_smiles_nlogada / link_parceiro,mobile,/pf/produto/cartoes/smiles,[Geral - NC - NP] Negado,44
+20190924,portal_smiles_nlogada / link_parceiro,mobile,/pf/produto/cartoes/smiles,[Geral - CC e NC - NP] Aprovado,5
+20190924,portalagenda.com / referral,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,2
+20190924,portalagenda.com / referral,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,11
+20190924,portalagenda.com / referral,mobile,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,1
+20190924,programauniversitario.universia.com.br / referral,mobile,/pf/funil/cartoes/cc-play/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,promocoes-app.visa.com.br / referral,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,proxymedia|proxymedia / email|cpa,desktop,/home,[Geral - NC - NP] Negado,2
+20190924,proxymedia|proxymedia / email|cpa,desktop,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,3
+20190924,proxymedia|proxymedia / email|cpa,desktop,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,1
+20190924,proxymedia|proxymedia / email|cpa,desktop,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,3
+20190924,proxymedia|proxymedia / email|cpa,desktop,/pf/funil/cartoes/cc-free/senha-ib/step-2,[Geral - CC e NC - NP] Aprovado,1
+20190924,proxymedia|proxymedia / email|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,1
+20190924,proxymedia|proxymedia / email|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,139
+20190924,proxymedia|proxymedia / email|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,18
+20190924,proxymedia|proxymedia / email|cpa,desktop,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,2
+20190924,proxymedia|proxymedia / email|cpa,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,proxymedia|proxymedia / email|cpa,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,13
+20190924,proxymedia|proxymedia / email|cpa,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,1
+20190924,proxymedia|proxymedia / email|cpa,mobile,/home,[Geral - NC - NP] Negado,2
+20190924,proxymedia|proxymedia / email|cpa,mobile,/pf/funil/cartoes/(not set)/cadastro/step-3a,[Geral - NC - NP] Negado,5
+20190924,proxymedia|proxymedia / email|cpa,mobile,/pf/funil/cartoes/(not set)/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,1
+20190924,proxymedia|proxymedia / email|cpa,mobile,/pf/funil/cartoes/(not set)/selecione-celular-para-token/step-5,[Geral - CC e NC - NP] Aprovado,1
+20190924,proxymedia|proxymedia / email|cpa,mobile,/pf/funil/cartoes/(not set)/token,[Geral - NC - NP] Negado,3
+20190924,proxymedia|proxymedia / email|cpa,mobile,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,3
+20190924,proxymedia|proxymedia / email|cpa,mobile,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,proxymedia|proxymedia / email|cpa,mobile,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - CC e NC - NP] Aprovado,1
+20190924,proxymedia|proxymedia / email|cpa,mobile,/pf/funil/cartoes/cc-free/continuar-pedido,[Geral - NC - NP] Negado,2
+20190924,proxymedia|proxymedia / email|cpa,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,3
+20190924,proxymedia|proxymedia / email|cpa,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - CC e NC - NP] Aprovado,1
+20190924,proxymedia|proxymedia / email|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,9
+20190924,proxymedia|proxymedia / email|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,707
+20190924,proxymedia|proxymedia / email|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,50
+20190924,proxymedia|proxymedia / email|cpa,mobile,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,7
+20190924,proxymedia|proxymedia / email|cpa,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,76
+20190924,proxymedia|proxymedia / email|cpa,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC - NP] Negado,1
+20190924,proxymedia|proxymedia / email|cpa,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,6
+20190924,proxymedia|proxymedia / email|cpa,tablet,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,1
+20190924,proxymedia|proxymedia / email|cpa,tablet,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,2
+20190924,proxymedia|proxymedia / email|cpa,tablet,/pf/funil/cartoes/cc-smiles-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,proxymedia|ros / email|cpa,mobile,/home,[Geral - NC - NP] Negado,1
+20190924,proxymedia|ros / push|cpa,desktop,/home,[Geral - NC - NP] Negado,1
+20190924,proxymedia|ros / push|cpa,desktop,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,proxymedia|ros / push|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,proxymedia|ros / push|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,rakuten / display|cpl,desktop,/home,[Geral - CC e NC - NP] Aprovado,1
+20190924,rakuten / display|cpl,mobile,/home,[Geral - NC - NP] Negado,2
+20190924,rakuten / display|cpl,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,rdi.us.criteo.com / referral,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,1
+20190924,rdi.us.criteo.com / referral,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,redes_sociais / link,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,samsung.com.br / referral,mobile,/pf/funil/cartoes/(not set)/token,[Geral - CC e NC - NP] Aprovado,1
+20190924,samsung|samsung-pay / display|cpc,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,2
+20190924,santander-universitario-app / menu-lateral,mobile,/home,[Geral - NC - NP] Negado,1
+20190924,santander-universitario-app / menu-lateral,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,santander.custhelp.com / referral,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC - NP] Negado,1
+20190924,santander.custhelp.com / referral,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,santanderesfera.com.br / referral,desktop,/home,[Geral - NC - NP] Negado,1
+20190924,santanderesfera.com.br / referral,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC - NP] Negado,1
+20190924,santanderesfera.com.br / referral,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,2
+20190924,serasa-consumidor|email / email|cpa,mobile,/home,[Geral - CC e NC - NP] Aprovado,1
+20190924,serasa-consumidor|email / email|cpa,mobile,/home,[Geral - NC - NP] Negado,2
+20190924,serasa-consumidor|email / email|cpa,mobile,/pf/funil/cartoes/cc-free/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,1
+20190924,serasa-consumidor|email / email|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,4
+20190924,serasa-consumidor|news-feed / social-ads|cpa,desktop,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,serasa-consumidor|news-feed / social-ads|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,3
+20190924,serasa-consumidor|news-feed / social-ads|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,22
+20190924,serasa-consumidor|news-feed / social-ads|cpa,desktop,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,1
+20190924,serasa-consumidor|news-feed / social-ads|cpa,mobile,/pf/funil/cartoes/(not set)/endereco/step-4,[Geral - NC - NP] Negado,1
+20190924,serasa-consumidor|news-feed / social-ads|cpa,mobile,/pf/funil/cartoes/cc-free/continuar-pedido,[Geral - NC - NP] Negado,1
+20190924,serasa-consumidor|news-feed / social-ads|cpa,mobile,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,1
+20190924,serasa-consumidor|news-feed / social-ads|cpa,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,serasa-consumidor|news-feed / social-ads|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,167
+20190924,serasa-consumidor|news-feed / social-ads|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,5
+20190924,serasa-consumidor|news-feed / social-ads|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,11
+20190924,serasa-consumidor|news-feed / social-ads|cpa,mobile,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,3
+20190924,serasa-consumidor|news-feed / social-ads|cpa,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,15
+20190924,serasa-consumidor|ros / display|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,2
+20190924,serasa-consumidor|ros / display|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,15
+20190924,serasa-consumidor|ros / display|cpa,desktop,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,1
+20190924,serasa-consumidor|ros / display|cpa,desktop,/pf/funil/cartoes/cc-free/token,[Geral - CC e NC - NP] Aprovado,1
+20190924,serasa-consumidor|ros / display|cpa,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,serasa-consumidor|ros / display|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,6
+20190924,serasa-consumidor|ros / display|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,55
+20190924,serasa-consumidor|ros / display|cpa,mobile,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - NC - NP] Negado,1
+20190924,serasa-consumidor|ros / display|cpa,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,serasa-consumidor|ros / display|cpa,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,serasaconsumidor.com.br / referral,desktop,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,serasaconsumidor.com.br / referral,mobile,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,serasaconsumidor.com.br / referral,mobile,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,1
+20190924,serasaconsumidor.com.br / referral,mobile,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,1
+20190924,serasaconsumidor|ensina / display|cpa,desktop,/pf/funil/cartoes/(not set)/token,[Geral - NC - NP] Negado,1
+20190924,serasaconsumidor|ensina / display|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,5
+20190924,serasaconsumidor|ensina / display|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,15
+20190924,serasaconsumidor|ensina / display|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,2
+20190924,serasaconsumidor|search / search|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,serasaconsumidor|search / search|cpa,mobile,/home,[Geral - NC - NP] Negado,2
+20190924,serasaconsumidor|search / search|cpa,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,serasaconsumidor|serasa-consumidor / email|cpa,desktop,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,serasaconsumidor|serasa-consumidor / email|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,32
+20190924,serasaconsumidor|serasa-consumidor / email|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,4
+20190924,serasaconsumidor|serasa-consumidor / email|cpa,mobile,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,2
+20190924,serasaconsumidor|serasa-consumidor / email|cpa,mobile,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,1
+20190924,serasaconsumidor|serasa-consumidor / email|cpa,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,serasaconsumidor|serasa-consumidor / email|cpa,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - CC e NC - NP] Aprovado,1
+20190924,serasaconsumidor|serasa-consumidor / email|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,24
+20190924,serasaconsumidor|serasa-consumidor / email|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,167
+20190924,serasaconsumidor|serasa-consumidor / email|cpa,mobile,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,5
+20190924,serasaconsumidor|serasa-consumidor / email|cpa,tablet,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,servicosonline.cpfl.com.br / referral,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,seucartaodecredito.com / referral,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,seucartaodecredito.com / referral,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,shell.com.br / referral,desktop,/pf/produto/cartoes/shell-internacional/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,shopback|email / email|cpa,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,shopback|email / email|cpa,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,shopback|email / email|cpa,mobile,/home,[Geral - NC - NP] Negado,1
+20190924,shopback|email / email|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,5
+20190924,shopback|email / email|cpa,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,7
+20190924,shopback|ros / display|cpc,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,shopback|ros / email|cpa,desktop,/home,[Geral - CC e NC - NP] Aprovado,1
+20190924,shopback|shopback / email|cpa,desktop,/home,[Geral - NC - NP] Negado,1
+20190924,shopback|shopback / email|cpa,desktop,/pf/funil/cartoes/cc-123/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,2
+20190924,shopback|shopback / email|cpa,desktop,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,1
+20190924,shopback|shopback / email|cpa,desktop,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,2
+20190924,shopback|shopback / email|cpa,desktop,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,3
+20190924,shopback|shopback / email|cpa,desktop,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,1
+20190924,shopback|shopback / email|cpa,desktop,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,3
+20190924,shopback|shopback / email|cpa,desktop,/pf/funil/cartoes/cc-free/token,[Geral - CC e NC - NP] Aprovado,1
+20190924,shopback|shopback / email|cpa,desktop,/pf/produto/cartoes/aadvantage/solicitar,[Geral - CC - NP] Negado,1
+20190924,shopback|shopback / email|cpa,desktop,/pf/produto/cartoes/aadvantage/solicitar,[Geral - CC e NC - NP] Aprovado,8
+20190924,shopback|shopback / email|cpa,desktop,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,127
+20190924,shopback|shopback / email|cpa,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,shopback|shopback / email|cpa,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,13
+20190924,shopback|shopback / email|cpa,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,107
+20190924,shopback|shopback / email|cpa,mobile,/home,[Geral - NC - NP] Negado,7
+20190924,shopback|shopback / email|cpa,mobile,/home,[Geral - CC e NC - NP] Aprovado,3
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/(not set)/cadastro/step-3a,[Geral - NC - NP] Negado,2
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/(not set)/token,[Geral - NC - NP] Negado,4
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/(not set)/token,[Geral - CC e NC - NP] Aprovado,1
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/cc-aa-gold/cadastro/step-3a,[Geral - NC - NP] Negado,2
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/cc-aa-gold/continuar-pedido,[Geral - NC - NP] Negado,1
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/cc-aa-gold/erro-sessao-expirada,[Geral - NC - NP] Negado,6
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/cc-aa-gold/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,1
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/cc-aa-gold/situacao-do-cadastro,[Geral - NC - NP] Negado,1
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,5
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,2
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/cc-aa-gold/token,[Geral - NC - NP] Negado,3
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/cc-elite-platinum/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,5
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/cc-free/continuar-pedido,[Geral - NC - NP] Negado,1
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/cc-free/continuar-pedido,[Geral - CC e NC - NP] Aprovado,1
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/cc-free/endereco/step-4,[Geral - NC - NP] Negado,1
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - CC e NC - NP] Aprovado,1
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,10
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,3
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,40
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,5
+20190924,shopback|shopback / email|cpa,mobile,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - NC - NP] Negado,1
+20190924,shopback|shopback / email|cpa,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - CC e NC - NP] Aprovado,27
+20190924,shopback|shopback / email|cpa,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,751
+20190924,shopback|shopback / email|cpa,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - CC - NP] Negado,26
+20190924,shopback|shopback / email|cpa,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,8
+20190924,shopback|shopback / email|cpa,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC - NP] Negado,1
+20190924,shopback|shopback / email|cpa,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC e NC - NP] Aprovado,41
+20190924,shopback|shopback / email|cpa,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,693
+20190924,shopback|shopback / email|cpa,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - CC - NP] Negado,5
+20190924,shopback|shopback / email|cpa,tablet,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,shopback|shopback / email|cpa,tablet,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,5
+20190924,shopback|shopback / email|cpa,tablet,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,3
+20190924,shopback|shopback / push|cpa,desktop,/pf/funil/cartoes/cc-aa-black/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,shopback|shopback / push|cpa,desktop,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,5
+20190924,shopback|shopback / push|cpa,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,shopback|shopback / push|cpa,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,2
+20190924,shopback|shopback / push|cpa,mobile,/home,[Geral - NC - NP] Negado,1
+20190924,shopback|shopback / push|cpa,mobile,/pf/funil/cartoes/(not set)/cadastro/step-3a,[Geral - NC - NP] Negado,2
+20190924,shopback|shopback / push|cpa,mobile,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,shopback|shopback / push|cpa,mobile,/pf/funil/cartoes/cc-free/personalize-cartao-basico/step-6,[Geral - CC e NC - NP] Aprovado,1
+20190924,shopback|shopback / push|cpa,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,4
+20190924,shopback|shopback / push|cpa,mobile,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - NC - NP] Negado,1
+20190924,shopback|shopback / push|cpa,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - NC - NP] Negado,58
+20190924,shopback|shopback / push|cpa,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - CC - NP] Negado,3
+20190924,shopback|shopback / push|cpa,mobile,/pf/produto/cartoes/aadvantage/solicitar,[Geral - CC e NC - NP] Aprovado,1
+20190924,shopback|shopback / push|cpa,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,5
+20190924,shopback|shopback / push|cpa,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC - NP] Negado,1
+20190924,shopback|shopback / push|cpa,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,33
+20190924,smiles.com.br / referral,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,smiles.com.br / referral,tablet,/pf/produto/cartoes/smiles,[Geral - NC - NP] Negado,1
+20190924,superare:navegador / display,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,superare|navegador / display|mensal,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,superare|navegador / email|mensal,mobile,/home,[Geral - NC - NP] Negado,1
+20190924,superare|navegador / email|mensal,mobile,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,superare|navegador / email|mensal,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,superare|navegador / push|mensal,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,1
+20190924,superare|navegador / push|mensal,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,superare|navegador / push|mensal,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,superare|superare / email|mensal,mobile,/home,[Geral - NC - NP] Negado,1
+20190924,superare|superare / email|mensal,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,superare|superare / email|outras,desktop,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,2
+20190924,superare|superare / email|outras,desktop,/pf/funil/cartoes/cc-free/continuar-pedido,[Geral - NC - NP] Negado,2
+20190924,superare|superare / email|outras,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,68
+20190924,superare|superare / email|outras,desktop,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,3
+20190924,superare|superare / email|outras,desktop,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,2
+20190924,superare|superare / email|outras,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,superare|superare / email|outras,desktop,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,8
+20190924,superare|superare / email|outras,mobile,/home,[Geral - NC - NP] Negado,5
+20190924,superare|superare / email|outras,mobile,/pf/erro/cartoes,[Geral - NC - NP] Negado,2
+20190924,superare|superare / email|outras,mobile,/pf/funil/cartoes/(not set)/biometria/step-7,[Geral - NC - NP] Negado,1
+20190924,superare|superare / email|outras,mobile,/pf/funil/cartoes/(not set)/cadastro/step-3a,[Geral - CC e NC - NP] Aprovado,1
+20190924,superare|superare / email|outras,mobile,/pf/funil/cartoes/(not set)/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,superare|superare / email|outras,mobile,/pf/funil/cartoes/(not set)/endereco/step-4,[Geral - CC e NC - NP] Aprovado,1
+20190924,superare|superare / email|outras,mobile,/pf/funil/cartoes/(not set)/token,[Geral - NC - NP] Negado,7
+20190924,superare|superare / email|outras,mobile,/pf/funil/cartoes/cc-123/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,superare|superare / email|outras,mobile,/pf/funil/cartoes/cc-aa-gold/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,superare|superare / email|outras,mobile,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,2
+20190924,superare|superare / email|outras,mobile,/pf/funil/cartoes/cc-free/continuar-pedido,[Geral - NC - NP] Negado,1
+20190924,superare|superare / email|outras,mobile,/pf/funil/cartoes/cc-free/erro-sessao-expirada,[Geral - NC - NP] Negado,4
+20190924,superare|superare / email|outras,mobile,/pf/funil/cartoes/cc-free/personalize-cartao-basico/step-6,[Geral - NC - NP] Negado,7
+20190924,superare|superare / email|outras,mobile,/pf/funil/cartoes/cc-free/senha-ib/step-2,[Geral - CC e NC - NP] Aprovado,1
+20190924,superare|superare / email|outras,mobile,/pf/funil/cartoes/cc-free/situacao-do-cadastro,[Geral - CC e NC - NP] Aprovado,1
+20190924,superare|superare / email|outras,mobile,/pf/funil/cartoes/cc-free/situacao-do-cadastro,[Geral - NC - NP] Negado,3
+20190924,superare|superare / email|outras,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,42
+20190924,superare|superare / email|outras,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,917
+20190924,superare|superare / email|outras,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC - NP] Negado,4
+20190924,superare|superare / email|outras,mobile,/pf/funil/cartoes/cc-free/token,[Geral - NC - NP] Negado,9
+20190924,superare|superare / email|outras,mobile,/pf/produto/cartoes/aadvantage-gold/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,superare|superare / email|outras,mobile,/pf/produto/cartoes/aadvantage-gold/pagina-de-produto,[Geral - NC - NP] Negado,12
+20190924,superare|superare / email|outras,mobile,/pf/produto/cartoes/aadvantage-gold/pagina-de-produto,[Geral - CC - NP] Negado,2
+20190924,superare|superare / email|outras,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,32
+20190924,superare|superare / email|outras,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,2
+20190924,superare|superare / email|outras,tablet,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,2
+20190924,superare|superare / push|mensal,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,superare|superare / push|mensal,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,superare|superare / push|outras,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,1
+20190924,superare|superare / push|outras,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,1
+20190924,superfinanciamento.com / referral,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,visa / solicite-agora,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,way / (not set),mobile,/home,[Geral - NC - NP] Negado,2
+20190924,weach|ros / display|cpl,mobile,/pf/funil/cartoes/(not set)/token,[Geral - NC - NP] Negado,1
+20190924,www3.olx.com.br / referral,desktop,/home,[Geral - NC - NP] Negado,1
+20190924,yahoo / organic,desktop,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,yahoo / organic,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,youtube.com / referral,desktop,/home,[Geral - NC - NP] Negado,1
+20190924,youtube.com / referral,mobile,/pf/funil/cartoes/cc-free/cadastro/step-3a,[Geral - NC - NP] Negado,1
+20190924,youtube.com / referral,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - CC e NC - NP] Aprovado,2
+20190924,youtube.com / referral,mobile,/pf/funil/cartoes/cc-free/sobre-voce-cpf/step-1,[Geral - NC - NP] Negado,2
+20190924,youtube.com / referral,mobile,/pf/funil/contas/abertura-de-conta/vantagens-em-ter-uma-conta-corrente-no-santander,[Geral - NC - NP] Negado,1
+20190924,youtube.com / referral,mobile,/pf/produto/cartoes/123/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,youtube.com / referral,mobile,/pf/produto/cartoes/aa-gold/pagina-de-produto,[Geral - CC e NC - NP] Aprovado,1
+20190924,youtube.com / referral,mobile,/pf/produto/cartoes/free/pagina-de-produto,[Geral - NC - NP] Negado,6
+20190924,youtube.com / referral,mobile,/pf/produto/cartoes/play/pagina-de-produto,[Geral - NC - NP] Negado,1
+20190924,youtube.com / referral,mobile,/pf/produto/cartoes/vitrine/cartoes-santander,[Geral - NC - NP] Negado,1
+20190924,youtube|youtube / video|cpv,mobile,/home,[Geral - NC - NP] Negado,2
